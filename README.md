@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![](https://cdn.glitch.com/7a352d65-4b98-4ff8-ba28-08e8d44d0cc3%2Fsound%20and%20memory.gif?v=1615528009698)
+![](https://github.com/jujdeng/codepath-prework/blob/main/assets/sound%20and%20memory.gif)
 
 
 ## Reflection Questions
